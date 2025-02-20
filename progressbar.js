@@ -1,8 +1,8 @@
 
     const metricsData = [
-        { name: "Food Safety", value: 74, img: "./img/img1.jpg" },
-        { name: "Compliance Basic Procedure", value: 52, img: "./img/img3.jpg" },
-        { name: "Company Networking", value: 36, img: "./img/img2.jpg" }
+        { name: "Food Safety", value: 74, img: "./img1.jpg" },
+        { name: "Compliance Basic Procedure", value: 52, img: "./img3.jpg" },
+        { name: "Company Networking", value: 36, img: "./img2.jpg" }
     ];
 
     const metricsContainer = document.getElementById("metrics");
