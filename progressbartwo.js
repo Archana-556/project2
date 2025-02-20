@@ -1,8 +1,8 @@
 
 const metricsData2 = [
-    { name: "Covid Protocols", value: 95, img: "./img/img4.jpg" },
-    { name: "Cyber Security Basic", value: 92, img: "./img/img5.jpg" },
-    { name: "Social Media Policies", value: 89, img: "./img/img6.jpg" }
+    { name: "Covid Protocols", value: 95, img: "./img4.jpg" },
+    { name: "Cyber Security Basic", value: 92, img: "./img5.jpg" },
+    { name: "Social Media Policies", value: 89, img: "./img6.jpg" }
 ];
 
 const metricsContainer2 = document.getElementById("metricstwo");
